@@ -1,5 +1,7 @@
 # book_my_console
 
+This app helps to book gaming cafes around you with Firebase Sign-in
+
 <h4>🟡 Onboarding & Login</h4>
 <p float="left">
   <img src="https://github.com/user-attachments/assets/8297d38b-493c-4a99-95dd-eace7b143ea4" width="200" alt="Welcome Screen"/>
